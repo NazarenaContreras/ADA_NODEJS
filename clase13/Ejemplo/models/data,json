@@ -1,0 +1,5 @@
+[
+    {"id":1, "marca":"Toyota", "modelo":"Corolla"},
+    {"id":2, "marca":"Ford", "modelo":"ka"},
+    {"id":3, "marca":"Audi", "modelo":"C4"}
+]
